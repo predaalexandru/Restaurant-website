@@ -29,6 +29,15 @@ body {
   position:relative;
 }
 
+.lead{
+  margin-left: 3rem;
+}
+
+.header {
+  margin-top: 2rem;
+  text-align: center;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -85,6 +94,7 @@ body {
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+  margin-left: 3rem;
 }
 
 
